@@ -31,5 +31,5 @@ Supply: 100%.
 
 Fair Launch
 
-Contract: https://bscscan.com/address/0xeba3403dafae0788346a232153b1bf654db53368
+Contract: https://bscscan.com/address/0xeba3403dafae0788346a232153b1bf654db53368.  
 More: https://wishdogedragon.com/
